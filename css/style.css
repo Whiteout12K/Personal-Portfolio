@@ -70,7 +70,7 @@ ul {
 }
 .section-title h3 {
     font-weight: 700;
-    color: #ff8c05;
+    color: #eca445;
 }
 .section-title.section-title-left {
     text-align: left;
@@ -80,7 +80,7 @@ ul {
     text-align: left;
 }
 .title-resume h3 {
-    color: #ff8c05;
+    color: #eca445;
     font-size: 22px;
     font-weight: 300;
     display: inline-block;
@@ -93,7 +93,7 @@ ul {
     font-weight: 900;
 }
 .title-resume h2 span {
-    color: #ff8c05;
+    color: #eca445;
 }
 
 .box-content {
@@ -105,9 +105,9 @@ ul {
 /*button default*/
 .button {
     background: #ff8c05;
-    background: -moz-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: -webkit-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: linear-gradient(135deg, #ff8c05 0%, #d61a5e 100%);
+    background: -moz-linear-gradient(-45deg, #eca445 0%, #eca445 100%);
+    background: -webkit-linear-gradient(-45deg, #eca445 0%, #916221 100%);
+    background: linear-gradient(135deg, #eca445 0%, #916221 100%);
     color: #fff;
     border: 0;
     margin-top: 50px;
@@ -153,7 +153,7 @@ ul {
 }
 .navbar .navbar-brand h2 {
     font-weight: 900;
-    background: -webkit-linear-gradient(right, #d61a5e, #ff8c05);
+    background: -webkit-linear-gradient(right, #916221, #eca445);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -197,7 +197,7 @@ ul {
 .home-intro .intro-content .intro-caption h2 {
     font-size: 70px;
     font-weight: 900;
-    background: -webkit-linear-gradient(right, #d61a5e, #ff8c05);
+    background: -webkit-linear-gradient(right, #916221, #eca445);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     line-height: 87px;
@@ -325,9 +325,9 @@ ul {
 }
 .resume .my-skill .content-right .progress .progress-bar {
     background: #d61a5e;
-    background: -moz-linear-gradient(left, #d61a5e 0%, #ff8c05 100%);
-    background: -webkit-linear-gradient(left, #d61a5e 0%, #ff8c05 100%);
-    background: linear-gradient(to right, #d61a5e 0%, #ff8c05 100%);
+    background: -moz-linear-gradient(left, #d39a4b 0%, #f7bd72 100%);
+    background: -webkit-linear-gradient(left, #d39a4b 0%, #f7bd72 100%);
+    background: linear-gradient(to right, #d39a4b 0%, #f7bd72 100%);
 }
 .resume .owl-theme .owl-dots .owl-dot span {
     margin: 5px 10px;
@@ -397,9 +397,9 @@ ul {
     width: 100%;
     height: 100%;
     background: #ff8c05;
-    background: -moz-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: -webkit-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: linear-gradient(135deg, #ff8c05 0%, #d61a5e 100%);
+    background: -moz-linear-gradient(-45deg, #916221 0%, #eca445 100%);
+    background: -webkit-linear-gradient(-45deg, #916221 0%, #eca445 100%);
+    background: linear-gradient(135deg, #916221 0%, #eca445 100%);
     animation: titles 600ms cubic-bezier(0.45, 0.81, 0.83, 0.18) forwards;
     transform: translateY(101%);
     animation-delay: .1s;
@@ -415,9 +415,9 @@ ul {
     width: 100%;
     height: 100%;
     background: #ff8c05;
-    background: -moz-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: -webkit-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: linear-gradient(135deg, #ff8c05 0%, #d61a5e 100%);
+    background: -moz-linear-gradient(-45deg, #eb9c41 0%, #f7b866 100%);
+    background: -webkit-linear-gradient(-45deg, #eb9c41 0%, #f7b866 100%);
+    background: linear-gradient(135deg, #eb9c41 0%, #f7b866 100%);
     animation: titles 500ms cubic-bezier(0.45, 0.81, 0.83, 0.18) forwards;
     transform: translateY(101%);
     animation-delay: .5s;
